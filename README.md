@@ -16,4 +16,4 @@ The process described above is repeated in a loop until the rover reaches the pr
 
 ## Notes
 
-We used Google Collab to run our code, since the vision models require GPU to run. The code are located in the file robot_final.ipynb
+We used Google Collab to run our code, since the vision models require GPU to run. The code are located in the file robot_final.ipynb(robot_final.ipynb)
